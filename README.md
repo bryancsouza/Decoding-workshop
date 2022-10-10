@@ -6,5 +6,7 @@ In the first part we simulated activity of neurons that are modulated by a stimu
 In the third and last part of the workshop, we use the same approach to analyze neurons from a real dataset.
 
 Useful links with examples of decoding:
-Places cells recorded from Matt Wilson's lab: https://www.youtube.com/watch?v=lfNVv0A8QvI
-Pfeiffer and Foster (2013) decoding animal position using place cells : https://www.nature.com/articles/nature12112#Sec9
+
+ - Places cells recorded from Matt Wilson's lab: https://www.youtube.com/watch?v=lfNVv0A8QvI
+
+ - Pfeiffer and Foster (2013) decoding animal position using place cells : https://www.nature.com/articles/nature12112#Sec9
